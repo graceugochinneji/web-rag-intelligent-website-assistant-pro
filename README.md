@@ -1,2 +1,1 @@
-# web-rag-intelligent-website-assistant-pro
-Optimized webscraping-to-RAG pipeline: crawl public sites and turn them into a grounded Q&amp;A assistant with LangChain + BeautifulSoup + Chroma + HuggingFace (GPU). 
+Web-RAG: Intelligent Website Knowledge Assistant (Colab Pro Edition) — A production-style pipeline that crawls any public site, cleans HTML to high-quality text, chunks with LangChain, and builds a persistent Chroma index using fast HuggingFace embeddings on Colab Pro GPUs. Answers are generated via Colab AI, so you can demo end-to-end RAG with no OpenAI billing. Optimized for longer runtimes, more memory, and GPU acceleration available on Colab Pro, making deeper crawls and larger indices smooth.
